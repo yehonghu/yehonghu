@@ -18,6 +18,10 @@
 
 ## Featured
 
+**[ETTE PO Hub](https://github.com/yehonghu/ette-po-hub)** — full-cycle kitchen purchase-order system I designed as a process and then built as software: an 11-step cycle with tiered CAD approvals, three-way invoice matching, separation of duties, and 8 role accounts (React 19 · TypeScript · Express · SQLite, rules enforced server-side)
+[![CI](https://github.com/yehonghu/ette-po-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/yehonghu/ette-po-hub/actions/workflows/ci.yml)
+[Live app](https://ette-po-hub.onrender.com) · [Instant demo](https://yehonghu.github.io/ette-po-hub/) · [Case study](https://yehonghu.github.io/james-hu-dev-portfolio/#work)
+
 **[BookEase](https://github.com/yehonghu/BookEase-COMP313-Group6-Final)** — full-stack local-service booking marketplace (React SPA · Express · MongoDB Atlas, one-service Render deploy, three-role auth)
 [![CI](https://github.com/yehonghu/BookEase-COMP313-Group6-Final/actions/workflows/ci.yml/badge.svg)](https://github.com/yehonghu/BookEase-COMP313-Group6-Final/actions/workflows/ci.yml)
 [Live demo](https://bookease-5e97.onrender.com) · [Case study](https://yehonghu.github.io/james-hu-dev-portfolio/#work)
